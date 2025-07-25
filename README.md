@@ -17,7 +17,7 @@ I'm always eager to learn new technologies and contribute to securing the digita
 ---
 
 📫 **Contact**: tegarfatwa@gmail.com  
-🌐 **LinkedIn**: [linkedin.com/in/tegarfatwa](https://www.linkedin.com/in/tegarfatwa)
+🌐 **LinkedIn**: [linkedin.com/in/tegarfatwa](www.linkedin.com/in/tegarfatwanugroho)
 
 ---
 
