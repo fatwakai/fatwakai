@@ -1,13 +1,20 @@
 # 🛡️ Tegar Fatwa Nugroho | Cybersecurity & Networking Portfolio
 
-Welcome to my portfolio! I have over 2 years of experience in **Network Engineering** and **Cybersecurity**, including internship experience as a **Security Analyst** and **Junior Pentester**.
+Welcome to my portfolio!
 
 ## 🔎 About Me
-I’m passionate about the world of cybersecurity, especially in:
-- Penetration Testing  
-- Honeypot Development  
-- SIEM (Security Information and Event Management)  
-- Network Defense
+---
+I’m a passionate cybersecurity enthusiast with over 2 years of experience in **Network Engineering** and **Cybersecurity**, including valuable internship experience as a **Security Analyst** and **Junior Pentester**. My journey into cybersecurity began with a fascination for understanding how systems can be secured against ever-evolving threats.
+
+I thrive on challenges and am particularly enthusiastic about:
+- 🧪 **Penetration Testing**: Discovering vulnerabilities and strengthening defenses.
+- 🍯 **Honeypot Development**: Setting traps to understand attacker tactics and gather threat intelligence.
+- 📊 **SIEM (Security Information and Event Management)**: Building robust systems for real-time security monitoring and incident response.
+- 🛡️ **Network Defense**: Architecting secure networks and implementing proactive defense strategies.
+
+I'm always eager to learn new technologies and contribute to securing the digital landscape.
+
+---
 
 📫 **Contact**: tegarfatwa@gmail.com  
 🌐 **LinkedIn**: [linkedin.com/in/tegarfatwa](https://www.linkedin.com/in/tegarfatwa)
