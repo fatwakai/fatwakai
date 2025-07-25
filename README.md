@@ -21,22 +21,13 @@ I'm always eager to learn new technologies and contribute to securing the digita
 
 ---
 
-## 📁 Table of Contents
-
-- [👨‍💻 About Me](AboutMe.md)
-- [📂 Projects](#projects)
-- [📝 Write-ups](Writeups/)
-- [📄 Certifications](#certifications)
-
----
-
 ## 💼 Projects
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | **OpenCanary Honeypot** | Honeypot implementation using OpenCanary on VPS for early threat detection. | [View](Projects/OpenCanary-Honeypot) |
-| **ELK-based SIEM** | Security monitoring system using the ELK Stack (Elasticsearch, Logstash, Kibana). | [View](Projects/SIEM-with-ELK) |
-| **Whitebox Pentest QR Reader** | Security analysis of a QR code reader using a whitebox testing approach. | [View](Projects/Whitebox-Pentest-QR-Reader) |
+| **SOC Implementation** | Security monitoring system using the ELK Stack (Elasticsearch, Logstash, Kibana). | [View](Projects/SIEM-with-ELK) |
+| **Pentest** | Security analysis of a QR code reader using a whitebox testing approach. | [View](Projects/Whitebox-Pentest-QR-Reader) |
 
 ---
 
