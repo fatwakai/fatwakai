@@ -48,5 +48,4 @@ I'm always eager to learn new technologies and contribute to securing the digita
 | CSI Linux Certified Investigator | Linux Academy | 2024 |
 | Ethical Hacker | Cisco Academy | 2024 |
 
-![fatwakai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatwakai&theme=vue-dark&hide_border=false)
 ![fatwakai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatwakai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
