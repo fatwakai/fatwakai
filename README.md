@@ -8,9 +8,9 @@ I’m a passionate cybersecurity enthusiast with over 2 years of experience in *
 
 I thrive on challenges and am particularly enthusiastic about:
 - 🧪 **Penetration Testing**: Discovering vulnerabilities and strengthening defenses.
-- 🍯 **Honeypot Development**: Setting traps to understand attacker tactics and gather threat intelligence.
+- 📊 **Threat Analysis & Security Intelligence**: Identifying attack patterns and gathering information to strengthen defenses.
 - 📊 **SIEM (Security Information and Event Management)**: Building robust systems for real-time security monitoring and incident response.
-- 🛡️ **Network Defense**: Architecting secure networks and implementing proactive defense strategies.
+- 🛡️ **Network Engineering**: Architecting secure networks and implementing proactive defense strategies.
 
 I'm always eager to learn new technologies and contribute to securing the digital landscape.
 
