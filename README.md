@@ -25,9 +25,9 @@ I'm always eager to learn new technologies and contribute to securing the digita
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **OpenCanary Honeypot** | Honeypot implementation using OpenCanary on VPS for early threat detection. | [View](Projects/OpenCanary-Honeypot) |
-| **SOC Implementation** | Security monitoring system using the ELK Stack (Elasticsearch, Logstash, Kibana). | [View](Projects/SIEM-with-ELK) |
-| **Pentest** | Security analysis of a QR code reader using a whitebox testing approach. | [View](Projects/Whitebox-Pentest-QR-Reader) |
+| **setup MSIP** | Honeypot implementation using OpenCanary on VPS for early threat detection. | [View](https://medium.com/@tegarfatwa/setup-misp-on-a-vps-a-comprehensive-guide-to-building-a-threat-sharing-platform-de021793706c) |
+| **YARA Rules** | Security monitoring system using the ELK Stack (Elasticsearch, Logstash, Kibana). | [View](https://medium.com/@tegarfatwa/building-a-simple-yara-rule-scanner-on-a-vps-for-malware-detection-ff62e54c3594) |
+| **Snort IDS** | Security analysis of a QR code reader using a whitebox testing approach. | [View](https://medium.com/@tegarfatwa/building-a-snort-ids-on-a-vps-and-testing-attacks-from-kali-linux-220af8eea2b8) |
 
 ---
 
